@@ -1,0 +1,26 @@
+2021-02-13 08:50:55,613 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-02-13 08:52:28,592 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @134924ms to org.eclipse.jetty.util.log.Slf4jLog
+2021-02-13 08:52:28,687 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.31.v20200723; built: 2020-08-03T13:24:06.825Z; git: 450ba27947e13e66baa8cd1ce7e85a4461cacc1d; jvm 11.0.10+9-Ubuntu-0ubuntu1.18.04
+2021-02-13 08:52:28,701 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2021-02-13 08:52:28,701 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2021-02-13 08:52:28,703 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+2021-02-13 08:52:28,734 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@779fbc80{/help,null,AVAILABLE}
+2021-02-13 08:52:28,742 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3864571c{HTTP/1.1, (http/1.1)}{127.0.0.1:42763}
+2021-02-13 08:52:28,742 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @135076ms
+2021-02-13 08:52:28,742 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 726000ms
+2021-02-13 08:55:18,025 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-02-13 08:55:20,086 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany:EjemploAgregacion:1.0-SNAPSHOT @ /home/sarnaizgarcia/Formacion/DAW/EntornosDesarrollo/Practica2/EjemploAgregacion/pom.xml.
+2021-02-13 08:55:21,321 [Worker-16: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EjemploAgregacion/src/main/java
+2021-02-13 08:55:21,356 [Worker-16: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EjemploAgregacion/src/test/java
+2021-02-13 08:55:22,776 [Worker-16: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2021-02-13 08:55:23,022 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-13 08:55:23,023 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sarnaizgarcia/Formacion/DAW/EntornosDesarrollo/Practica2/EjemploAgregacion/src/main/resources
+2021-02-13 08:55:23,041 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-13 08:55:23,042 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sarnaizgarcia/Formacion/DAW/EntornosDesarrollo/Practica2/EjemploAgregacion/src/test/resources
+2021-02-13 08:55:34,454 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-13 08:55:34,454 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sarnaizgarcia/Formacion/DAW/EntornosDesarrollo/Practica2/EjemploAgregacion/src/main/resources
+2021-02-13 08:55:34,456 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-13 08:55:34,456 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sarnaizgarcia/Formacion/DAW/EntornosDesarrollo/Practica2/EjemploAgregacion/src/test/resources
+2021-02-13 09:00:09,966 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@3864571c{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2021-02-13 09:00:09,967 [Stop Help Server] INFO  org.eclipse.jetty.server.session - node0 Stopped scavenging
+2021-02-13 09:00:09,978 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@779fbc80{/help,null,UNAVAILABLE}

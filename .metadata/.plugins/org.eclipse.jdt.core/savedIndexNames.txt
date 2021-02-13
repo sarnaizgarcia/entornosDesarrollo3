@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/sarnaizgarcia/Formacion/DAW/EntornosDesarrollo/Practica2/Calculadora/.metadata/.plugins/org.eclipse.jdt.core
+646308851.index
+1610535193.index
