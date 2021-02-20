@@ -32,9 +32,6 @@ public class Resta{
 	 *		Valor del resultado.
 	 * @return resultado1
 	 * 		Resultado de la operacion.
-	 * @throws NumberFormatException
-	 * 		Excepcion si se introduce un valor no valido. {@link NumberFormatException#getLocalizedMessage()}
-	 * 
 	 */
 	
 	public double restaReales(double minuendo, double sustraendo) {
@@ -54,9 +51,6 @@ public class Resta{
 	 *		Valor del resultado.
 	 * @return resultado2
 	 * 		Resultado de la operacion.
-	 * @throws NumberFormatException
-	 * 		Excepcion si se introduce un valor no valido. {@link NumberFormatException#getLocalizedMessage()}
-	 * 
 	 */
 	
 	public int restaEnteros(int minuendo, int sustraendo) {
@@ -77,10 +71,7 @@ public class Resta{
 	 * @param resultado3
 	 *		Valor del resultado.
 	 * @return resultado3
-	 * 		Resultado de la operacion.
-	 * @throws NumberFormatException
-	 * 		Excepcion si se introduce un valor no valido. {@link NumberFormatException#getLocalizedMessage()}
-	 * 
+	 * 		Resultado de la operacion. 
 	 */
 	
 	public double restaTresReales(double minuendo, double sustraendo, double sustraendo2) {
@@ -99,9 +90,6 @@ public class Resta{
 	 *		Valor del resultado.
 	 * @return resultado4
 	 * 		Resultado de la operación.
-	 * @throws NumberFormatException
-	 * 		Excepcion si se introduce un valor no valido. {@link NumberFormatException#getLocalizedMessage()}
-	 * 
 	 */
 	
 	public double acumulado(double sustraendo) {
